@@ -1,6 +1,6 @@
 # Hack Reactor: JavaScript 101 Workshop
 
-Hey there! Ready to get your hands dirty with some code? 
+Hey there! Are you ready to get your hands dirty with some code? 
 
 In order to complete these exercises, open [repl.it](https://repl.it/) and write your code in the left-hand panel. You can run your code using the "Run" button.
 
@@ -20,7 +20,7 @@ The lesson slides for this workshop can be found [here](https://docs.google.com/
 
   Extra Credit: Want to shave off the extra decimal places? [Click here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed) to learn about the `.toFixed()` function and how to use it.
 
-In the example below, your function should output `7.965`.
+In the example below, your function should output `7.965`. It should not output '8.25'.
 
 ```js
 calculateTip(44.25, 18)
